@@ -1,6 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.uuid_generator = void 0;
 const uuid_generator = (length) => {
     if (!length) {
         throw new Error('No length for the uuid');
@@ -17,4 +15,4 @@ const uuid_generator = (length) => {
     }
     return uuidList.join('');
 };
-exports.uuid_generator = uuid_generator;
+module.exports = uuid_generator;
