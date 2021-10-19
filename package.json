@@ -1,0 +1,11 @@
+{
+  "name": "uuid-generator",
+  "version": "1.0.0",
+  "description": "a unique user id generator",
+  "main": "./dist/index.js",
+  "scripts": {
+    "compile": "tsc & node index.js"
+  },
+  "author": "Psychomantis",
+  "license": "ISC"
+}
