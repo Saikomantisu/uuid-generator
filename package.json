@@ -4,8 +4,11 @@
   "description": "a unique user id generator",
   "main": "./dist/index.js",
   "scripts": {
-    "compile": "tsc"
+    "compile": "tsc & node index.js"
   },
   "author": "Psychomantis",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.1"
+  }
 }

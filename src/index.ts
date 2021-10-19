@@ -19,4 +19,4 @@ const uuid_generator = (length: number) => {
     return uuidList.join('')
 }
 
-export { uuid_generator }
+module.exports = uuid_generator
