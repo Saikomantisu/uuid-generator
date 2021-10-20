@@ -18,5 +18,6 @@
   "homepage": "https://github.com/Saikomantisu/uuid-generator#readme",
   "dependencies": {
     "@types/node": "^16.11.1"
-  }
+  },
+  "devDependencies": {}
 }
