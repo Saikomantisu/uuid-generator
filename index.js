@@ -1,3 +1,3 @@
 import uuid_generator from './src'  
 
-export default uuid_generator
+export default uuid_generator-
