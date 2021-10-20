@@ -1,14 +1,22 @@
 {
   "name": "uuid-generator",
   "version": "1.0.1",
-  "description": "a unique user id generator",
+  "description": "A simple uuid generator",
   "main": "./dist/index.js",
   "scripts": {
     "compile": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saikomantisu/uuid-generator.git"
+  },
   "author": "Psychomantis",
   "license": "ISC",
-  "devDependencies": {
+  "bugs": {
+    "url": "https://github.com/Saikomantisu/uuid-generator/issues"
+  },
+  "homepage": "https://github.com/Saikomantisu/uuid-generator#readme",
+  "dependencies": {
     "@types/node": "^16.11.1"
   }
 }
