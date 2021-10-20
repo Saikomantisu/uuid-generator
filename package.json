@@ -1,5 +1,5 @@
 {
-  "name": "uuid-generator",
+  "name": "@psychomantis/uuid-generator",
   "version": "1.0.0",
   "description": "A simple uuid generator",
   "main": "./dist/index.js",
