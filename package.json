@@ -1,7 +1,7 @@
 {
   "name": "@psychomantis/uuid-generator",
-  "version": "1.0.0",
-  "description": "A simple uuid generator",
+  "version": "1.0.2",
+  "description": "A simple unique user id generator",
   "main": "./dist/index.js",
   "scripts": {
     "compile": "tsc"
@@ -18,6 +18,5 @@
   "homepage": "https://github.com/Saikomantisu/uuid-generator#readme",
   "dependencies": {
     "@types/node": "^16.11.1"
-  },
-  "devDependencies": {}
+  }
 }
